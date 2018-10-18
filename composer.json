@@ -16,5 +16,13 @@
         "psr-4": {
             "Symetrland\\Tututorial\\Iterator\\": "src/"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Symetrland\\Tututorial\\Iterator\\Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
     }
 }
